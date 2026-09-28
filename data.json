@@ -1,0 +1,76 @@
+[
+  {
+    "name": "Multimeter",
+    "category": "measure",
+    "qty": 12,
+    "price": 850
+  },
+  {
+    "name": "Oscilloscope",
+    "category": "measure",
+    "qty": 4,
+    "price": 25000
+  },
+  {
+    "name": "Arduino Uno",
+    "category": "board",
+    "qty": 30,
+    "price": 390
+  },
+  {
+    "name": "Breadboard",
+    "category": "tool",
+    "qty": 40,
+    "price": 60
+  },
+  {
+    "name": "Soldering iron",
+    "category": "tool",
+    "qty": 10,
+    "price": 450
+  },
+  {
+    "kind": "cycle_setting",
+    "username": "พพ้พะ",
+    "last_period": "2026-09-28",
+    "cycle_length": 30,
+    "created_at": "2026-09-28"
+  },
+  {
+    "kind": "cycle_setting",
+    "username": "555",
+    "last_period": "2026-09-28",
+    "cycle_length": 28,
+    "created_at": "2026-09-28"
+  },
+  {
+    "kind": "cycle_setting",
+    "username": "่่่ีด่ร่่น่่",
+    "last_period": "2026-09-18",
+    "cycle_length": 21,
+    "created_at": "2026-09-28"
+  },
+  {
+    "kind": "cycle_setting",
+    "username": "555",
+    "last_period": "2026-09-15",
+    "cycle_length": 28,
+    "created_at": "2026-09-28"
+  },
+  {
+    "kind": "cycle_setting",
+    "username": "น้องนิค",
+    "last_period": "2026-09-09",
+    "cycle_length": 28,
+    "period_days_count": 7,
+    "created_at": "2026-09-28"
+  },
+  {
+    "kind": "cycle_setting",
+    "username": "พะ้ะพ้พ้",
+    "last_period": "2026-09-28",
+    "cycle_length": 28,
+    "period_days_count": 5,
+    "created_at": "2026-09-28"
+  }
+]
